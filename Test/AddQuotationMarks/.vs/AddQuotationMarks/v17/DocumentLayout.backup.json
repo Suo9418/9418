@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56F289CC-C91F-4A57-B64C-EE21B4942613}|AddQuotationMarks.csproj|D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\dal\\selectdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F289CC-C91F-4A57-B64C-EE21B4942613}|AddQuotationMarks.csproj|solutionrelative:dal\\selectdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F289CC-C91F-4A57-B64C-EE21B4942613}|AddQuotationMarks.csproj|D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\bll\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F289CC-C91F-4A57-B64C-EE21B4942613}|AddQuotationMarks.csproj|solutionrelative:bll\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F289CC-C91F-4A57-B64C-EE21B4942613}|AddQuotationMarks.csproj|d:\\skq\\vs\u5B66\u4E60\u7B14\u8BB0\\imes\\addquotationmarks\\view\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F289CC-C91F-4A57-B64C-EE21B4942613}|AddQuotationMarks.csproj|solutionrelative:view\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F289CC-C91F-4A57-B64C-EE21B4942613}|AddQuotationMarks.csproj|D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\view\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56F289CC-C91F-4A57-B64C-EE21B4942613}|AddQuotationMarks.csproj|solutionrelative:view\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F289CC-C91F-4A57-B64C-EE21B4942613}|AddQuotationMarks.csproj|D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\view\\importfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F289CC-C91F-4A57-B64C-EE21B4942613}|AddQuotationMarks.csproj|solutionrelative:view\\importfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AddQuotationMarks||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F289CC-C91F-4A57-B64C-EE21B4942613}|AddQuotationMarks.csproj|D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F289CC-C91F-4A57-B64C-EE21B4942613}|AddQuotationMarks.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F289CC-C91F-4A57-B64C-EE21B4942613}|AddQuotationMarks.csproj|D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\dal\\updatedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F289CC-C91F-4A57-B64C-EE21B4942613}|AddQuotationMarks.csproj|solutionrelative:dal\\updatedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F289CC-C91F-4A57-B64C-EE21B4942613}|AddQuotationMarks.csproj|D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\utils\\pagebean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F289CC-C91F-4A57-B64C-EE21B4942613}|AddQuotationMarks.csproj|solutionrelative:utils\\pagebean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F289CC-C91F-4A57-B64C-EE21B4942613}|AddQuotationMarks.csproj|D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\utils\\imexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F289CC-C91F-4A57-B64C-EE21B4942613}|AddQuotationMarks.csproj|solutionrelative:utils\\imexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F289CC-C91F-4A57-B64C-EE21B4942613}|AddQuotationMarks.csproj|D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\view\\importfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56F289CC-C91F-4A57-B64C-EE21B4942613}|AddQuotationMarks.csproj|solutionrelative:view\\importfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\skq\\TXT\\\u6DFB\u52A0\u5F15\u53F7111\\LogHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F289CC-C91F-4A57-B64C-EE21B4942613}|AddQuotationMarks.csproj|D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\dal\\insertdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F289CC-C91F-4A57-B64C-EE21B4942613}|AddQuotationMarks.csproj|solutionrelative:dal\\insertdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F289CC-C91F-4A57-B64C-EE21B4942613}|AddQuotationMarks.csproj|D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F289CC-C91F-4A57-B64C-EE21B4942613}|AddQuotationMarks.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F289CC-C91F-4A57-B64C-EE21B4942613}|AddQuotationMarks.csproj|D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\view\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F289CC-C91F-4A57-B64C-EE21B4942613}|AddQuotationMarks.csproj|solutionrelative:view\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\View\\Main.cs",
+              "RelativeDocumentMoniker": "View\\Main.cs",
+              "ToolTip": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\View\\Main.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "View\\Main.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:17:11.533Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LogHelper.cs",
+              "DocumentMoniker": "D:\\skq\\TXT\\\u6DFB\u52A0\u5F15\u53F7111\\LogHelper.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\TXT\\\u6DFB\u52A0\u5F15\u53F7111\\LogHelper.cs",
+              "ToolTip": "D:\\skq\\TXT\\\u6DFB\u52A0\u5F15\u53F7111\\LogHelper.cs",
+              "RelativeToolTip": "..\\..\\..\\TXT\\\u6DFB\u52A0\u5F15\u53F7111\\LogHelper.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:33:19.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\View\\Main.cs",
+              "RelativeDocumentMoniker": "View\\Main.cs",
+              "ToolTip": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\View\\Main.cs",
+              "RelativeToolTip": "View\\Main.cs",
+              "ViewState": "AgIAAPwBAAAAAAAAAAAmwAwCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:33:24.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImportFrm.cs",
+              "DocumentMoniker": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\View\\ImportFrm.cs",
+              "RelativeDocumentMoniker": "View\\ImportFrm.cs",
+              "ToolTip": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\View\\ImportFrm.cs",
+              "RelativeToolTip": "View\\ImportFrm.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAvwB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:56:12.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateDAL.cs",
+              "DocumentMoniker": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\DAL\\UpdateDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\UpdateDAL.cs",
+              "ToolTip": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\DAL\\UpdateDAL.cs",
+              "RelativeToolTip": "DAL\\UpdateDAL.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAADgvxAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:05:55.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddQuotationMarks",
+              "DocumentMoniker": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\AddQuotationMarks.csproj",
+              "RelativeDocumentMoniker": "AddQuotationMarks.csproj",
+              "ToolTip": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\AddQuotationMarks.csproj",
+              "RelativeToolTip": "AddQuotationMarks.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-14T20:19:45.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:21:40.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\BLL\\Controller.cs",
+              "RelativeDocumentMoniker": "BLL\\Controller.cs",
+              "ToolTip": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\BLL\\Controller.cs",
+              "RelativeToolTip": "BLL\\Controller.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA9wEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:07:21.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PageBean.cs",
+              "DocumentMoniker": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\Utils\\PageBean.cs",
+              "RelativeDocumentMoniker": "Utils\\PageBean.cs",
+              "ToolTip": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\Utils\\PageBean.cs",
+              "RelativeToolTip": "Utils\\PageBean.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAvwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:29:06.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SelectDAL.cs",
+              "DocumentMoniker": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\DAL\\SelectDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\SelectDAL.cs",
+              "ToolTip": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\DAL\\SelectDAL.cs",
+              "RelativeToolTip": "DAL\\SelectDAL.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAHkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:05:16.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ImportFrm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\View\\ImportFrm.cs",
+              "RelativeDocumentMoniker": "View\\ImportFrm.cs",
+              "ToolTip": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\View\\ImportFrm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "View\\ImportFrm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:43:36.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "imExcel.cs",
+              "DocumentMoniker": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\Utils\\imExcel.cs",
+              "RelativeDocumentMoniker": "Utils\\imExcel.cs",
+              "ToolTip": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\Utils\\imExcel.cs",
+              "RelativeToolTip": "Utils\\imExcel.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAADgv0QAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T19:12:57.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InsertDAL.cs",
+              "DocumentMoniker": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\DAL\\InsertDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\InsertDAL.cs",
+              "ToolTip": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\DAL\\InsertDAL.cs",
+              "RelativeToolTip": "DAL\\InsertDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T11:05:41.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\View\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "View\\Main.Designer.cs",
+              "ToolTip": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\View\\Main.Designer.cs",
+              "RelativeToolTip": "View\\Main.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T08:46:45.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\skq\\VS\u5B66\u4E60\u7B14\u8BB0\\IMES\\AddQuotationMarks\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T18:10:44.309Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

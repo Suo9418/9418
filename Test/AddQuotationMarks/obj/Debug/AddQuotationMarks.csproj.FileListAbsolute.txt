@@ -1,0 +1,12 @@
+D:\skq\IMES-X5\IMES-X5\imesModules\LZX5QAS-1453814762\ProdManagementDemo\AddQuotationMarks\AddQuotationMarks.dll
+D:\skq\IMES-X5\IMES-X5\imesModules\LZX5QAS-1453814762\ProdManagementDemo\AddQuotationMarks\AddQuotationMarks.dll.config
+D:\skq\IMES-X5\IMES-X5\imesModules\LZX5QAS-1453814762\ProdManagementDemo\AddQuotationMarks\AddQuotationMarks.pdb
+D:\skq\VS学习笔记\IMES\AddQuotationMarks\obj\Debug\AddQuotationMarks.csproj.AssemblyReference.cache
+D:\skq\VS学习笔记\IMES\AddQuotationMarks\obj\Debug\AddQuotationMarks.Main.resources
+D:\skq\VS学习笔记\IMES\AddQuotationMarks\obj\Debug\AddQuotationMarks.Properties.Resources.resources
+D:\skq\VS学习笔记\IMES\AddQuotationMarks\obj\Debug\AddQuotationMarks.csproj.GenerateResource.cache
+D:\skq\VS学习笔记\IMES\AddQuotationMarks\obj\Debug\AddQuotationMarks.csproj.CoreCompileInputs.cache
+D:\skq\VS学习笔记\IMES\AddQuotationMarks\obj\Debug\AddQuotationMarks.dll
+D:\skq\VS学习笔记\IMES\AddQuotationMarks\obj\Debug\AddQuotationMarks.pdb
+D:\skq\VS学习笔记\IMES\AddQuotationMarks\obj\Debug\AddQuota.4B3C56BA.Up2Date
+D:\skq\VS学习笔记\IMES\AddQuotationMarks\obj\Debug\AddQuotationMarks.View.ImportFrm.resources
